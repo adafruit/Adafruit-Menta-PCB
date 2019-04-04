@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Adafruit MENTA
 
 ## These are the Eagle CAD files for the Adafruit MENTA
