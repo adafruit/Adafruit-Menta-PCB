@@ -19,3 +19,11 @@ Introducing the MENTA, a portable minty Arduino-compatible project that fits int
 - __This pack even comes with the mint tin itself!__
 
 Comes as a kit of parts, this is an excellent beginner project, with [step-by-step instructions](http://ladyada.net/make/menta/index.html) even for someone who has never soldered before. [A soldering iron, diagonal cutters and solder](https://www.adafruit.com/category/8) are required to complete the project. You'll also need an FTDI adapter such as the [FTDI Friend](http://www.adafruit.com/products/284) or [FTDI Cable](https://www.adafruit.com/products/70) to program it via the Arduino IDE.
+
+### License
+
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
+
+Designed by Limor Fried/Ladyada for Adafruit Industries.
+
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
